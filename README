@@ -1,0 +1,5 @@
+Wrapper for TaffyDB (https://github.com/typicaljoe/taffydb) to use in Titanium
+
+Examples are best seen at http://taffydb.com
+
+The DBs get stored in Ti.App.Properties at the moment
